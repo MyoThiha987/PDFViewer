@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestLib</string>
+    <string name="pick_file">Pick file</string>
+
+</resources>
